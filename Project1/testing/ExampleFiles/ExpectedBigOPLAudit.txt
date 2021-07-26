@@ -1,0 +1,21 @@
+Election Type: Open Party List
+Number of candidates: 6
+Candidates: [Pike,D],[Foster,D],[Deutsch,R],[Borg,R],[Jones,R],[Smith,I]
+Number of Seats: 2
+Total number of Votes: 100000
+Calculated Quota: 50000
+D,50000
+[Pike,50000],[Foster,0]
+R,0
+[Deutsch,0],[Borg,0],[Jones,0]
+I,50000
+[Smith,50000]
+D has 1 quota(s)
+R has 0 quota(s)
+I has 1 quota(s)
+0 seat(s) remaining
+[Pike,D],[Smith,I] have been elected.
+
+Additional Notes:
+-----------------
+No ties occurred in this election.

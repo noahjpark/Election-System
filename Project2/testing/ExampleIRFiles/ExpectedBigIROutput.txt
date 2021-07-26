@@ -1,0 +1,56 @@
+Election Results:
+-----------------
+Election Type: Instant Runoff
+Candidates: Rosen (D), Kleinberg (R), Chou (I), Royce (L), Cena (C), Stark (S), Barnes (B), Falcon (F)
+Total Number of Votes Cast: 100000
+Kleinberg (R) has won the election with 50.156094% of the remaining votes.
+This is 46.592 % of the total votes cast in this election.
+
+Election Statistics:
+--------------------
+1st Count:
+	Rosen (D): 12511
+	Kleinberg (R): 12676
+	Chou (I): 12499
+	Royce (L): 12475
+	Cena (C): 12453
+	Stark (S): 12454
+	Barnes (B): 12571
+	Falcon (F): 12361
+2nd Count (Transfer of Falcon's votes):
+	Rosen (D): 14306 (+1795)
+	Kleinberg (R): 14480 (+1804)
+	Chou (I): 14318 (+1819)
+	Royce (L): 14160 (+1685)
+	Cena (C): 14294 (+1841)
+	Stark (S): 14188 (+1734)
+	Barnes (B): 14254 (+1683)
+3rd Count (Transfer of Royce's votes):
+	Rosen (D): 16620 (+2314)
+	Kleinberg (R): 16855 (+2375)
+	Chou (I): 16638 (+2320)
+	Cena (C): 16661 (+2367)
+	Stark (S): 16571 (+2383)
+	Barnes (B): 16655 (+2401)
+4th Count (Transfer of Stark's votes):
+	Rosen (D): 19971 (+3351)
+	Kleinberg (R): 20171 (+3316)
+	Chou (I): 19955 (+3317)
+	Cena (C): 19965 (+3304)
+	Barnes (B): 19938 (+3283)
+5th Count (Transfer of Barnes's votes):
+	Rosen (D): 24876 (+4905)
+	Kleinberg (R): 25049 (+4878)
+	Chou (I): 24850 (+4895)
+	Cena (C): 24923 (+4958)
+6th Count (Transfer of Chou's votes):
+	Rosen (D): 32700 (+7824)
+	Kleinberg (R): 32916 (+7867)
+	Cena (C): 32602 (+7679)
+7th Count (Transfer of Cena's votes):
+	Rosen (D): 46302 (+13602)
+	Kleinberg (R): 46592 (+13676)
+
+Final Notes:
+------------
+No ties occurred in this election.

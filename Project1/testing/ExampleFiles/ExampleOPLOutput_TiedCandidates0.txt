@@ -1,0 +1,30 @@
+Election Results:
+-----------------
+Candidates:
+	p0 Candidates: c0_p0, c1_p0, c2_p0, c3_p0
+	p1 Candidates: c0_p1, c1_p1
+	p2 Candidates: c0_p2, c1_p2, c2_p2
+	p3 Candidates: c0_p3, c1_p3
+Total Number of votes cast: 9500
+Number of seats up for election: 5
+Winners: c0_p0 (p0), c0_p1 (p1), c1_p1 (p1), c2_p2 (p2), c1_p2 (p2)
+
+Seat Allocation Statistics:
+---------------------------
+***Quota for First Allocation: 1900 Votes***
+[Party],[Votes],[First Allocation of Seats],[Remaining Votes],[Second Allocation of Seats],[Final Seat Total]
+p0,2000,1,100,0,1
+p1,3000,1,1100,1,2
+p2,4000,2,200,0,2
+p3,500,0,500,0,0
+
+Votes for Each Candidate:
+-------------------------
+p0 Candidates: c0_p0 (600), c1_p0 (600), c2_p0 (600), c3_p0 (200)
+p1 Candidates: c0_p1 (2000), c1_p1 (1000)
+p2 Candidates: c0_p2 (500), c1_p2 (1000), c2_p2 (2500)
+p3 Candidates: c0_p3 (300), c1_p3 (200)
+
+Additional Notes:
+-----------------
+c0_p0, c1_p0, c2_p0 tied in popularity when assigning seats for p0. c0_p0 won in a fair coin toss.

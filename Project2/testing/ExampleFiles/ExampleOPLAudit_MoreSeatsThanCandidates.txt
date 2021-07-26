@@ -1,0 +1,37 @@
+Election Type: Open Party List
+Number of candidates: 10
+Candidates: [c0_p0,p0],[c1_p0,p0],[c2_p0,p0],[c0_p1,p1],[c1_p1,p1],[c0_p2,p2],[c1_p2,p2],[c2_p2,p2],[c0_p3,p3],[c1_p3,p3]
+Number of Seats: 11
+Total number of Votes: 9500
+Calculated Quota: 863
+p0,2000
+[c0_p0,1200],[c1_p0,500],[c2_p0,300]
+p1,3000
+[c0_p1,2000],[c1_p1,1000]
+p2,4000
+[c0_p2,500],[c1_p2,1000],[c2_p2,2500]
+p3,500
+[c0_p3,300],[c1_p3,200]
+p0 has 2 quota(s)
+p1 has 2 quota(s)
+p2 has 3 quota(s)
+p3 has 0 quota(s)
+4 seat(s) remaining
+p0,274
+p1,1274
+p2,1411
+p3,500
+p3 receives another seat.
+p0 receives another seat.
+p3 receives another seat.
+Not all seats have been distributed. This is likely due to there being less candidates than seats available.
+p0 has earned 3 seat(s).
+p1 has earned 2 seat(s).
+p2 has earned 3 seat(s).
+p3 has earned 2 seat(s).
+[c0_p0,p0],[c1_p0,p0],[c2_p0,p0],[c0_p1,p1],[c1_p1,p1],[c2_p2,p2],[c1_p2,p2],[c0_p2,p2],[c0_p3,p3],[c1_p3,p3] have been elected.
+
+Additional Notes:
+-----------------
+No ties occurred in this election.
+1 seat(s) has not been distributed. This is likely due to there being less candidates than seats available.

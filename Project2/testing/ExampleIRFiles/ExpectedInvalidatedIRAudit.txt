@@ -1,0 +1,20 @@
+Election Type: Instant Runoff
+Number of candidates: 3
+Candidates: Rosen (D), Kleinberg (R), Chou (I)
+Total Ballots: 3
+Original Distribution (i.e., 1st count):
+(I)(D): 2
+(R)(D)(I): 1
+
+Election Statistics:
+--------------------
+1st Count:
+	Rosen (D): 0
+	Kleinberg (R): 1
+	Chou (I): 2
+Chou (I) has won the election with 66.66667% of the remaining votes.
+This is 66.66667 % of the total votes cast in this election.
+
+Final Notes:
+------------
+No ties occurred in this election.

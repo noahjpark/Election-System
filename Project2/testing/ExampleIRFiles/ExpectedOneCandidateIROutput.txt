@@ -1,0 +1,16 @@
+Election Results:
+-----------------
+Election Type: Instant Runoff
+Candidates: Rosen (D)
+Total Number of Votes Cast: 1
+Rosen (D) has won the election with 100.0% of the remaining votes.
+This is 100.0 % of the total votes cast in this election.
+
+Election Statistics:
+--------------------
+1st Count:
+	Rosen (D): 1
+
+Final Notes:
+------------
+No ties occurred in this election.

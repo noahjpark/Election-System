@@ -1,0 +1,27 @@
+Election Results:
+-----------------
+Candidates:
+	D Candidates: Pike, Foster
+	R Candidates: Deutsch, Borg, Jones
+	I Candidates: Smith
+Total Number of votes cast: 8
+Number of seats up for election: 1
+Winners: Pike (D)
+
+Seat Allocation Statistics:
+---------------------------
+***Quota for First Allocation: 8 Votes***
+[Party],[Votes],[First Allocation of Seats],[Remaining Votes],[Second Allocation of Seats],[Final Seat Total]
+D,4,0,4,1,1
+R,0,0,0,0,0
+I,4,0,4,0,0
+
+Votes for Each Candidate:
+-------------------------
+D Candidates: Pike (4), Foster (0)
+R Candidates: Deutsch (0), Borg (0), Jones (0)
+I Candidates: Smith (4)
+
+Additional Notes:
+-----------------
+D, I tied when assigning remaining seats. D won in a fair coin toss.

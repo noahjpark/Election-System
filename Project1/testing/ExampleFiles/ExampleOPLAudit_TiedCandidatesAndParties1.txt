@@ -1,0 +1,30 @@
+Election Type: Open Party List
+Number of candidates: 5
+Candidates: [c0_p0,p0],[c1_p0,p0],[c0_p1,p1],[c1_p1,p1],[c0_p2,p2]
+Number of Seats: 1
+Total number of Votes: 4100
+Calculated Quota: 4100
+p0,2000
+[c0_p0,1000],[c1_p0,1000]
+p1,2000
+[c0_p1,1000],[c1_p1,1000]
+p2,100
+[c0_p2,100]
+p0 has 0 quota(s)
+p1 has 0 quota(s)
+p2 has 0 quota(s)
+1 seat(s) remaining
+p0,2000
+p1,2000
+p2,100
+p1 receives another seat.
+All seats have been filled.
+p0 has earned 0 seat(s).
+p1 has earned 1 seat(s).
+p2 has earned 0 seat(s).
+[c0_p1,p1] have been elected.
+
+Additional Notes:
+-----------------
+p0, p1 tied when assigning remaining seats. p1 won in a fair coin toss.
+c0_p1, c1_p1 tied in popularity when assigning seats for p1. c0_p1 won in a fair coin toss.

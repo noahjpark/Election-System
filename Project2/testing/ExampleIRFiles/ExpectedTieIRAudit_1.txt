@@ -1,0 +1,30 @@
+Election Type: Instant Runoff
+Number of candidates: 3
+Candidates: Rosen (D), Kleinberg (R), Chou (I)
+Total Ballots: 12
+Original Distribution (i.e., 1st count):
+(D)(R): 5
+(R)(D): 5
+(I)(D): 1
+(I)(R): 1
+Distribution after 2nd Count:
+(D)(R): 5
+(R)(D): 5
+(D): 1
+(R): 1
+
+Election Statistics:
+--------------------
+1st Count:
+	Rosen (D): 5
+	Kleinberg (R): 5
+	Chou (I): 2
+2nd Count (Transfer of Chou's votes):
+	Rosen (D): 6 (+1)
+	Kleinberg (R): 6 (+1)
+Rosen (D) has won the election with 50.0% of the remaining votes.
+ This is 50.0 % of the total votes cast in this election.
+
+Final Notes:
+------------
+Rosen and Kleinberg tied in number of votes while determining the winner. Rosen won the election in a fair coin toss.

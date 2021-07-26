@@ -1,0 +1,43 @@
+Election Type: Instant Runoff
+Number of candidates: 4
+Candidates: c0 (p0), c1 (p1), c2 (p2), c3 (p3)
+Total Ballots: 75
+
+Original Distribution (i.e., 1st count):
+(p0): 10
+(p1)(p2): 5
+(p2)(p1)(p3): 20
+(p1)(p2)(p0): 10
+(p3)(p2): 20
+(p2)(p1)(p0): 10
+Distribution after 2nd Count:
+(p1)(p2): 15
+(p2)(p1)(p3): 20
+(p3)(p2): 20
+(p2)(p1): 10
+Distribution after 3rd Count:
+(p3)(p2): 20
+(p2): 25
+(p2)(p3): 20
+
+Election Statistics:
+--------------------
+1st Count:
+	c0 (p0): 10
+	c1 (p1): 15
+	c2 (p2): 30
+	c3 (p3): 20
+2nd Count (Transfer of c0's votes):
+	c1 (p1): 15 (+0)
+	c2 (p2): 30 (+0)
+	c3 (p3): 20 (+0)
+3rd Count (Transfer of c1's votes):
+	c2 (p2): 45 (+15)
+	c3 (p3): 20 (+0)
+
+c2 (p2) has won the election with 69.230774% of the remaining votes.
+This is 60.000004 % of the total votes cast in this election.
+
+Final Notes:
+------------
+No ties occurred in this election.

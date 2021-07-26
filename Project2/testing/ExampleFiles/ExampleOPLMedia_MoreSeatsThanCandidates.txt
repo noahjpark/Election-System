@@ -1,0 +1,31 @@
+Election Results:
+-----------------
+Candidates:
+	p0 Candidates: c0_p0, c1_p0, c2_p0
+	p1 Candidates: c0_p1, c1_p1
+	p2 Candidates: c0_p2, c1_p2, c2_p2
+	p3 Candidates: c0_p3, c1_p3
+Total Number of votes cast: 9500
+Number of seats up for election: 11
+Winners: c0_p0 (p0), c1_p0 (p0), c2_p0 (p0), c0_p1 (p1), c1_p1 (p1), c2_p2 (p2), c1_p2 (p2), c0_p2 (p2), c0_p3 (p3), c1_p3 (p3)
+
+Seat Allocation Statistics:
+---------------------------
+***Quota for First Allocation: 863 Votes***
+[Party],[Votes],[First Allocation of Seats],[Remaining Votes],[Second Allocation of Seats],[Final Seat Total]
+p0,2000,2,274,1,3
+p1,3000,2,1274,0,2
+p2,4000,3,1411,0,3
+p3,500,0,500,2,2
+
+Votes for Each Candidate:
+-------------------------
+p0 Candidates: c0_p0 (1200), c1_p0 (500), c2_p0 (300)
+p1 Candidates: c0_p1 (2000), c1_p1 (1000)
+p2 Candidates: c0_p2 (500), c1_p2 (1000), c2_p2 (2500)
+p3 Candidates: c0_p3 (300), c1_p3 (200)
+
+Additional Notes:
+-----------------
+No ties occurred in this election.
+1 seat(s) has not been distributed. This is likely due to there being less candidates than seats available.

@@ -1,0 +1,28 @@
+Election Results:
+-----------------
+Election Type: Instant Runoff
+Candidates:
+[Rosen,D],[Kleinberg,R],[Chou,I],[Royce,L]
+Total Number of votes cast: 6
+Winner: Rosen (D)
+
+Election Statistics:
+---------------------------
+First Count (First Choice Votes):
+Rosen (D) : 3
+Kleinberg (R) : 0
+Chou (I) : 2
+Royce (L) : 1
+
+Second Count (Second Choice Votes):
+Rosen (D) : 3
+Chou (I) : 2
+Royce (L) : 1
+
+Third Count (Third Choice Votes):
+Rosen (D) : 3
+Chou (I) : 2
+
+Final Notes:
+-----------------
+No ties occurred in this election.

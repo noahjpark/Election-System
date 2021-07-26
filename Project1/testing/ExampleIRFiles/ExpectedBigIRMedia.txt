@@ -1,0 +1,53 @@
+Election Results:
+-----------------
+Election Type: Instant Runoff
+Candidates: Rosen (D), Kleinberg (R), Chou (I), Royce (L), Jack (J), Justin (L), Queen (Q), King (K)
+Total Number of Votes Cast: 100000
+Jack (J) has won the election with 53.39333% of the remaining votes.
+This is 44.498 % of the total votes cast in this election.
+
+Election Statistics:
+--------------------
+1st Count:
+	Rosen (D): 7671
+	Kleinberg (R): 11830
+	Chou (I): 14540
+	Royce (L): 30573
+	Jack (J): 15963
+	Justin (L): 0
+	Queen (Q): 11800
+	King (K): 7623
+2nd Count (Transfer of Justin's votes):
+	Rosen (D): 9252 (+1581)
+	Kleinberg (R): 15120 (+3290)
+	Chou (I): 20393 (+5853)
+	Royce (L): 30573 (+0)
+	Jack (J): 25315 (+9352)
+	Queen (Q): 16902 (+5102)
+	King (K): 9910 (+2287)
+3rd Count (Transfer of Rosen's votes):
+	Kleinberg (R): 18195 (+3075)
+	Chou (I): 22513 (+2120)
+	Royce (L): 30573 (+0)
+	Jack (J): 26599 (+1284)
+	Queen (Q): 17651 (+749)
+	King (K): 10354 (+444)
+4th Count (Transfer of King's votes):
+	Kleinberg (R): 19204 (+1009)
+	Chou (I): 23824 (+1311)
+	Royce (L): 30573 (+0)
+	Jack (J): 28807 (+2208)
+	Queen (Q): 21885 (+4234)
+5th Count (Transfer of Kleinberg's votes):
+	Chou (I): 32749 (+8925)
+	Royce (L): 30573 (+0)
+	Jack (J): 33389 (+4582)
+	Queen (Q): 24341 (+2456)
+6th Count (Transfer of Queen's votes):
+	Chou (I): 38842 (+6093)
+	Royce (L): 30573 (+0)
+	Jack (J): 44498 (+11109)
+
+Final Notes:
+------------
+No ties occurred in this election.

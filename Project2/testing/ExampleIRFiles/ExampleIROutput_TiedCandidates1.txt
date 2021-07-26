@@ -1,0 +1,26 @@
+Election Results:
+-----------------
+Election Type: Instant Runoff
+Candidates: c0 (p0), c1 (p1), c2 (p2), c3 (p3)
+Total Number of Votes Cast: 153
+c1 (p1) has won the election with 65.51724% of the remaining votes.
+This is 62.091507 % of the total votes cast in this election.
+
+Election Statistics:
+--------------------
+1st Count:
+	c0 (p0): 33
+	c1 (p1): 35
+	c2 (p2): 40
+	c3 (p3): 45
+2nd Count (Transfer of c0's votes):
+	c1 (p1): 50 (+15)
+	c2 (p2): 50 (+10)
+	c3 (p3): 50 (+5)
+3rd Count (Transfer of c2's votes):
+	c1 (p1): 95 (+45)
+	c3 (p3): 50 (+0)
+
+Final Notes:
+------------
+c1, c2, c3 tied in number of votes while determining the loser during round 2. c2 was eliminated in a fair coin toss.
